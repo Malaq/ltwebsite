@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+	<title>Wristwraps of the Howling Beast - Item - World of Warcraft</title>
+
+	<meta name="description" content="This&#x20;is&#x20;a&#x20;Hunter-only&#x20;reward&#x20;for&#x20;completing&#x20;Challenge&#x20;Conqueror&#x3A;&#x20;Gold.&#x20;It&#x20;is&#x20;part&#x20;of&#x20;the&#x20;vanity&#x20;set&#x20;Howling&#x20;Beast&#x20;Set." />
+	<meta name="keywords" content="5.0.4" />
+
+	<meta property="fb&#x3A;admins" content="573494374,100000288498499,199109509,10715337,551996612,571053676" />
+	<meta property="og&#x3A;site_name" content="Wowhead" />
+	<meta property="og&#x3A;title" content="Wristwraps&#x20;of&#x20;the&#x20;Howling&#x20;Beast" />
+	<meta property="og&#x3A;image" content="http&#x3A;&#x2F;&#x2F;wow.zamimg.com&#x2F;images&#x2F;logos&#x2F;wowicon.png" />
+	<meta property="og&#x3A;url" content="http&#x3A;&#x2F;&#x2F;www.wowhead.com&#x2F;item&#x3D;90075&#x2F;wristwraps-of-the-howling-beast" />
+	<meta property="og&#x3A;description" content="This&#x20;is&#x20;a&#x20;Hunter-only&#x20;reward&#x20;for&#x20;completing&#x20;Challenge&#x20;Conqueror&#x3A;&#x20;Gold.&#x20;It&#x20;is&#x20;part&#x20;of&#x20;the&#x20;vanity&#x20;set&#x20;Howling&#x20;Beast&#x20;Set." />
+	<meta property="og&#x3A;type" content="article" />
+	
+	<link rel="canonical" href="http&#x3A;&#x2F;&#x2F;www.wowhead.com&#x2F;item&#x3D;90075&#x2F;wristwraps-of-the-howling-beast" />
+	<link rel="search" type="application/opensearchdescription+xml" href="http://wow.zamimg.com/download/searchplugins/wowhead.xml" title="Wowhead" />
+	<link rel="apple-touch-icon-precomposed" href="http://wow.zamimg.com/apple-touch-icon.png" />
+
+	<script>
+        var MonkeyBroker = MonkeyBroker || {};
+        MonkeyBroker.customDomainName="mb.zam.com";
+        MonkeyBroker.site = location.href.indexOf('thottbot.com') > 0 ? 1665 : 1664;
+        MonkeyBroker.queryInventorySizes = [ 30 ];
+        MonkeyBroker.atts = [];
+        window["mbAddAttr"]=window["mbAddAttr"]||function(k,v){MonkeyBroker.atts.push([k,v])};
+	</script>
+
+	<link rel="stylesheet" type="text/css" href="http://wowcss.zamimg.com/css/locale_enus.css?1353445667" />
+	<link rel="stylesheet" type="text/css" href="http://wowcss.zamimg.com/css/basic.css?1363710966" />
+	<link rel="stylesheet" type="text/css" href="http://wowcss.zamimg.com/css/global.css?1363710983" />
+	<link rel="stylesheet" type="text/css" href="http://wowcss.zamimg.com/css/wowhead.css?1363711003" />
+	<link rel="stylesheet" type="text/css" href="http://wowcss.zamimg.com/css/Book.css?1353445658" />
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+	<script src="http://apis.google.com/js/plusone.js"></script>
+
+	<script type="text/javascript">
+	if(typeof window['jQuery'] == 'undefined')
+	{
+		document.write('<script src="http://wow.zamimg.com/js/jquery.1.4.2.min.js"><' + '/script>');
+	}
+	</script>
+	<script type="text/javascript">
+	$.extend(window, {g_staticUrl: 'http://wow.zamimg.com', g_serverTime: new Date('2013/03/24 13:43:47')});
+	</script>
+
+	<script src="http://wowjs.zamimg.com/js/locale_enus.js?1363711020"></script>
+	<script src="http://wowjs.zamimg.com/js/basic.js?1363711004"></script>
+	<script src="http://wowjs.zamimg.com/widgets/power.js?1362586968"></script>
+	<script src="http://wowjs.zamimg.com/js/global.js?1363711016"></script>
+	<script src="http://wowjs.zamimg.com/js/Book.js?1353445687"></script>
+	<script src="http://wowjs.zamimg.com/js/filters.js?1363711006"></script>
+	<script src="http://wowjs.zamimg.com/js/profile.js?1357675837"></script>
+
+	<script src="http://www17.wowhead.com/data=weight-presets.zones&locale=0&t=55420b69e1acec487d227fd4d557e33231893c28&1837"></script>
+
+	<script>
+        document.write(decodeURI("%3Cscript src='" + document.location.protocol + "//d3pkae9owd2lcf.cloudfront.net/mb103.js.gz' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+	<script type="text/javascript">
+		g_user = {"id":0,"name":"","roles":0,"permissions":0,"ads":true,"cookies":[],"canDeleteComments":false};
+	</script>
+
+</head>
+
+<body class="item"">
+	<script>g_trackEvent('Potentially Skinnable Interior Page', 'Impression', 'Wowhead')</script>
+			<script>g_trackEvent('Skinnable Interior Page', 'Impression', 'Wowhead')</script>
+	<div style="position: absolute; width: 1px; height: 1px; background: url('http://wow.zamimg.com/images/ui/wsa-notification.png') no-repeat"></div>
+
+<div class="beta-ptr-links">
+		<div><a href="http://old.wowhead.com/item=90075" rel="np" title="View the old version of this page">&#171; Archive</a></div>
+			</div>
+
+<div class="layout nosidebar" id="layout">
+<div class="layout-inner">
+
+
+	<div class="header">
+		<h1>Wristwraps of the Howling Beast - Item - World of Warcraft</h1>
+		<a href="/" class="header-logo"></a>
+
+					<div class="header-bg">
+	<div id="ad-header">
+		<script>window["a" + MonkeyBroker.campaignVals.r]({sz:5,w:728,h:90})</script>
+	</div>
+</div>
+			</div>
+
+
+<div class="wrapper" id="wrapper">
+	<div class="wrapper-center" id="wrapper-center">
+				</div>
+	<div class="wrapper-right" id="wrapper-right">
+				<a href="#" class="header-expandsite" id="header-expandsite"></a>
+			</div>
+
+				<div class="toplinks linklist"><a href="https://www.wowhead.com/account=signin">Log in / Register</a>|<a href="#" id="toplinks-feedback" class="icon-email">Feedback</a>|<a href="#" id="toplinks-language"></a>
+</div>						<div class="toptabs" id="toptabs"></div>
+						<div class="topbar" id="topbar">
+			<div class="topbar-search"><form action="/search"><input name="q" value="" /></form></div>
+			<div class="topbar-buttons"></div>
+		</div>
+		
+		<div class="main" id="main">
+		<div class="main-precontents" id="main-precontents"></div>
+		<div class="main-contents" id="main-contents">
+			<div id="announcement-0"></div>
+	
+	<div id="announcement-101"></div>
+<script type="text/javascript">
+	new Announcement({
+		parent: 'announcement-101',
+		id: 101,
+		text: '\x5Bh3\x5D\x5Bb\x5D\x5Burl\x3Dhttp\x3A\x2F\x2Fwww.wowhead.com\x2Fnews\x3D211439\x2Fbattle\x2Dpet\x2Dtools\x2Dnew\x2Dstat\x2Dcalculator\x2Dand\x2Dsite\x2Denhancements\x5DBattle\x20Pet\x20Stat\x20Calculator\x5B\x2Furl\x5D\x5B\x2Fb\x5D\x5B\x2Fh3\x5D\x0D\x0AWe\x27ve\x20improved\x20our\x20battle\x20pet\x20database\x20with\x20a\x20\x5Bb\x5D\x5Burl\x3Dhttp\x3A\x2F\x2Fwww.wowhead.com\x2Fnews\x3D211439\x2Fbattle\x2Dpet\x2Dtools\x2Dnew\x2Dstat\x2Dcalculator\x2Dand\x2Dsite\x2Denhancements\x5Dstat\x20calculator\x20on\x20all\x20pet\x20pages\x5B\x2Furl\x5D\x5B\x2Fb\x5D\x20as\x20well\x20as\x20an\x20enhanced\x20\x5Bb\x5D\x5Burl\x3Dhttp\x3A\x2F\x2Fwww.wowhead.com\x2Fpetspecies\x5Dgallery\x20listview\x5B\x2Furl\x5D\x5B\x2Fb\x5D\x20and\x20\x5Bb\x5D\x5Burl\x3Dhttp\x3A\x2F\x2Fwww.wowhead.com\x2Fpetabilities\x5Dadditional\x20ability\x20filters\x5B\x2Furl\x5D\x5B\x2Fb\x5D.\x0D\x0AAlso\x20check\x20out\x20our\x20\x5Bb\x5D\x5Burl\x3Dhttp\x3A\x2F\x2Fwww.wowhead.com\x2Fnews\x3D211433\x2Fpatch\x2D5\x2D2\x2Dthrone\x2Dof\x2Dthunder\x2Doverview\x5DThrone\x20of\x20Thunder\x20Overview\x5B\x2Furl\x5D\x5B\x2Fb\x5D,\x20covering\x20everything\x20from\x20the\x20LFR\x20schedule\x20to\x20boss\x20strategies\x20and\x20more\x21',
+		name: 'Battle\x20Pets',
+		style: 'padding\x2Dleft\x3A\x2080px\x3B\x20background\x2Dimage\x3A\x20url\x28http\x3A\x2F\x2Fstatic.wowhead.com\x2Fimages\x2Fannouncements\x2Fbpetcalc.png\x29\x3B\x20background\x2Dposition\x3A\x2010px\x20center',
+		status: 1,
+		mode: 1
+	});
+</script>
+<script type="text/javascript">
+		PageTemplate.set({pageName: 'item', activeTab: 0});
+	PageTemplate.init();
+		g_captchaType = 1;
+	g_dataKey = '55420b69e1acec487d227fd4d557e33231893c28';
+	g_host = 'http://www17.wowhead.com';
+</script>
+
+<script type="text/javascript">//<![CDATA[
+var lv_comments0 = [];
+var lv_screenshots = [];
+var lv_videos = [];
+var lv_links = [];
+</script>
+<script type="text/javascript">
+var _ = {};
+_[90075]={name_enus:'Wristwraps of the Howling Beast',quality:4,icon:'INV_BRACER_MAIL_CHALLENGEHUNTER_D_01'};_[90163]={name_enus:'Golden Chest of the Howling Beast',quality:4,icon:'INV_Misc_OrnateBox'};
+$.extend(true, g_items, _);
+_ = g_items;
+_[90075].tooltip_enus = '<table><tr><td><b class="q4">Wristwraps of the Howling Beast</b><br /><span style="color: #ffd100">Item Level 90</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Wrist</td><th>Mail</th></tr></table><!--rf--><span>292 Armor</span><!--rs--><!--e--><!--ps--><br />Durability 55 / 55<br />Classes: <a href="/class=3" class="c3">Hunter</a></td></tr></table><table><tr><td><!--rr-->Requires Level 90<br />Sell Price: <span class="moneygold">25</span></td></tr></table>';
+_[90075].spells_enus = {};
+var _ = {};
+$.extend(true, g_spells, _);
+_ = g_spells;
+</script>
+<script type="text/javascript">
+	var g_pageInfo = { type: 3, typeId: 90075, name: 'Wristwraps\x20of\x20the\x20Howling\x20Beast' };
+	PageTemplate.set({ breadcrumb: [0,0,4,3,9]});
+</script>
+
+<table class="infobox">
+	<tr>
+		<th id="infobox-quick-facts">Quick Facts</th>
+	</tr>
+	<tr><td>
+		<div class="infobox-spacer"></div>
+				<div id="infobox-contents0"></div>
+		<script type="text/javascript">
+			Markup.printHtml('\x5Bul\x5D\x5Bli\x5DCost\x3A\x20\x5Bmoney\x3D1000000\x5D\x5B\x2Fli\x5D\x5Bli\x5DCannot\x20be\x20disenchanted\x5B\x2Fli\x5D\x5Bli\x5DRepair\x20cost\x3A\x20\x5Bmoney\x3D15812\x5D\x5B\x2Fli\x5D\x5Bli\x5DAdded\x20in\x20patch\x205.0.4\x5B\x2Fli\x5D\x5B\x2Ful\x5D', 'infobox-contents0', { allow: Markup.CLASS_STAFF, dbpage: true });
+		</script>
+			</td></tr>
+	<tr>
+		<th id="infobox-screenshots">Screenshots</th>
+	</tr>
+	<tr><td>
+		<div class="infobox-spacer"></div>
+				<div id="infobox-sticky-ss"></div>
+			</td></tr>
+	<tr>
+		<th id="infobox-videos">Videos</th>
+	</tr>
+	<tr><td>
+		<div class="infobox-spacer"></div>
+				<div id="infobox-sticky-vi"></div>
+			</td></tr>
+</table>
+<script type="text/javascript">ss_appendSticky();</script>
+<script type="text/javascript">vi_appendSticky();</script>
+
+<div class="text">
+	<a href="javascript:;" id="open-links-button" class="button-red"
+	   onclick="this.blur(); Links.show({ type: 3, typeId: 90075, linkColor: 'ffa335ee', linkId: 'item:90075:0:0:0:0:0:0:0:0', linkName: 'Wristwraps\x20of\x20the\x20Howling\x20Beast' });">
+		<em><b><i>Links</i></b><span>Links</span></em>
+	</a>
+<a href="javascript:;" id="dsgndslgn464d" class="button-red"
+   onclick="this.blur(); ModelViewer.show({ type: 3, typeId: 90075, displayId: 114334, slot: 9 })">
+	<em><b><i>View in 3D</i></b><span>View in 3D</span></em>
+</a>
+	<a href="javascript:;" class="button-red" onclick="this.blur(); su_addToSaved(90075, 1);"><em><b><i>Compare</i></b><span>Compare</span></em></a>
+	<a href="javascript:;" class="button-red" onclick="this.blur(); pr_showClassPresetMenu(this, 90075, 4, 9, event);">
+		<em><b><i>Find upgrades...</i></b><span>Find upgrades...</span></em>
+	</a>
+	<div id="sdlkgnfdlkgndfg4"></div>
+	<script type="text/javascript">pr_addEquipButton('sdlkgnfdlkgndfg4', 90075);</script>
+
+<h1>Wristwraps of the Howling Beast</h1>
+<div class="block-bg">
+	<div id="ad-content">
+		<script>window["a" + MonkeyBroker.campaignVals.r]({sz:1,w:300,h:250})</script>
+	</div>
+</div>
+
+<div id="ic90075" style="float: left"></div>
+<div id="tt90075" class="wowhead-tooltip" style="float: left; padding-top: 1px"></div>
+<div style="clear: left"></div>
+<div id="sl90075" style="margin-left: 70px; margin-top: 4px; display: none"></div>
+<div id="ks90075" style="margin-left: 70px; margin-top: 4px; display: none"></div>
+<div id="iu90075" style="margin-left: 70px; margin-top: 4px; display: none"></div>
+
+<script type="text/javascript">
+$WH.ge('ic90075').appendChild(Icon.create('INV_BRACER_MAIL_CHALLENGEHUNTER_D_01', 2, null, 0, 1));
+var tt = $WH.ge('tt90075'), sl = $WH.ge('sl90075'), ks = $WH.ge('ks90075'), iu = $WH.ge('iu90075');
+tt.innerHTML = '<table><tr><td>' +
+	($WH.g_enhanceTooltip.bind(tt))(90075, true, true, sl, null, null, ks, null, 0, iu) +
+	'</td><th style="background-position: top right"></th></tr><tr><th style="background-position: bottom left"></th><th style="background-position: bottom right"></th></tr></table>';
+$WH.Tooltip.fixSafe(tt, 1, 1, sl);
+</script>
+
+
+	<div class="pad"></div>This item is part of the following transmog set:
+		&nbsp;<a href="/transmog-set=1528">Howling Beast Set</a>
+	
+<div class="pad2"></div>
+<div id="efhjkdsoicjx" class="left"></div>
+<script type="text/javascript">//<![CDATA[
+var _ = {};
+$.extend(true, g_items, _);
+_ = g_items;
+var _ = {};
+$.extend(true, g_spells, _);
+_ = g_spells;
+var _ = {};
+_[6378]={name_enus:'Challenge Conqueror: Gold',icon:'achievement_challengemode_gold'};
+$.extend(true, g_achievements, _);
+_ = g_achievements;
+var _ = {};
+_[3]={name_enus:'Hunter'};
+$.extend(true, g_classes, _);
+_ = g_classes;
+Markup.printHtml("[quote][b]This is a [class=3]-only reward for completing [achievement=6378]. It is part of the vanity set [url=http://www.wowhead.com/transmog-set=1528]Howling Beast Set[/url]. Learn more about Challenge Mode rewards with [url=http://www.wowhead.com/news=206398/mists-of-pandaria-challenge-modes#.]Wowhead's guide[/url]![/b][/quote]", "efhjkdsoicjx", { allow: Markup.CLASS_ADMIN, dbpage: true });
+//]]></script>
+
+
+
+<h2 class="clear">Related</h2>
+</div>
+
+<div id="jkbfksdbl4"></div>
+<div id="lkljbjkb574" class="listview">
+</div>
+
+<script type="text/javascript">
+	var tabsRelated = new Tabs({parent: $WH.ge('jkbfksdbl4'), trackable: 'Item'});
+		
+	
+	
+	
+	
+	
+	
+	
+	new Listview({template: 'npc', id: 'sold-by', name: LANG.tab_soldby, tabs: tabsRelated, parent: 'lkljbjkb574', hiddenCols: ['level', 'type'],
+              extraCols: [Listview.extraCols.stock, Listview.extraCols.cost], data: [{"classification":0,"id":64028,"location":[6142],"maxlevel":90,"minlevel":90,"name":"Challenger Soong","react":[1,-1],"tag":"Challenge Dungeons","type":7,stock:-1,cost:[1000000]},{"classification":0,"id":63994,"location":[6141],"maxlevel":90,"minlevel":90,"name":"Challenger Wuli","react":[undefined,1],"tag":"Challenge Dungeons","type":7,stock:-1,cost:[1000000]}]});
+	
+	new Listview({template: 'item', id: 'contained-in-item', name: LANG.tab_containedin, tabs: tabsRelated, parent: 'lkljbjkb574',
+              extraCols: [Listview.extraCols.count, Listview.extraCols.percent], sort:['-percent', 'name'],
+              computeDataFunc: Listview.funcBox.initLootTable, data: [{"classs":15,"id":90163,"level":90,"name":"3Golden Chest of the Howling Beast","reqclass":4,"slot":0,"source":[12],"sourcemore":[{"n":"Challenge Conqueror: Gold","s":-1,"t":10,"ti":6378}],"subclass":4,count:16,outof:16}]});
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	new Listview({template: 'comment', id: 'comments', name: LANG.tab_comments, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_comments0});
+if(lv_links.length)
+	new Listview({template: 'relatedlinks', id: 'links', name: LANG.tab_whatlinkshere, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_links});
+new Listview({template: 'screenshot', id: 'screenshots', name: LANG.tab_screenshots, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_screenshots});
+if(lv_videos.length)
+	new Listview({template: 'video', id: 'videos', name: LANG.tab_videos, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_videos});
+
+	tabsRelated.flush();
+</script><div class="text"><h2 class="clear">Contribute</h2><div class="block-bg"><div id="ad-contribute"><script>window["a" + MonkeyBroker.campaignVals.r]({sz:26,w:300,h:250})</script></div></div>
+</div>
+
+<div id="lkgljhkv456" style="width: 50%"></div>
+
+<div class="text" style="margin-right: 316px">
+<div class="tabbed-contents" style=" clear: none">
+<div id="tab-add-your-comment" style="display: none">Please keep the following in mind when posting a comment:<ul>
+<li><div>Your comment must be in English or it will be removed.</div></li>
+<li><div>Unsure how to post? Check out our <a href="/help=commenting-and-you" target="_blank">handy guide</a>!</div></li>
+<li><div>You might want to proof-read your comments before posting them.</div></li><li><div>Please post questions on our <a href="/forums">forums</a> for quicker reply.</div></li></ul><form action="/" method="post">
+
+<div class="comment-edit-body"><textarea class="comment-editbox" rows="10" cols="40" name="commentbody" disabled="disabled"></textarea></div>
+<small>You are not logged in. Please <a href="/account=signin">log in</a> or <a href="/account=signup">register an account</a> to add your comment.</small>
+
+</form>
+
+</div>
+
+<div id="tab-submit-a-screenshot" style="display: none">
+
+Simply browse for your screenshot using the form below.
+
+<ul>
+<li><div>In-game screenshots are preferred over model-viewer-generated ones.</div></li>
+<li><div>The higher the quality the better!</div></li>
+<li><div>Be sure to read the <a href="/help=screenshots-tips-tricks" target="_blank">tips &amp; tricks</a> if you haven't before.</div></li>
+</ul>
+
+<form action="/" method="post">
+
+<input type="file" name="screenshotfile" disabled="disabled" /><br />
+<small>You are not logged in. Please <a href="/account=signin">log in</a> to submit a screenshot.</small>
+
+</form>
+
+</div>
+
+<div id="tab-suggest-a-video" style="display: none">
+
+Simply type the URL of the video in the form below.
+
+<div class="pad2"></div>
+<form action="/video=add&amp;3.90075" method="post" enctype="multipart/form-data" onsubmit="return vi_validateForm(this)">
+
+URL: <input type="text" name="videourl" style="width: 35%" /> <small>Supported: YouTube only</small>
+<div class="pad2"></div>
+Title: <input type="text" name="videotitle" maxlength="200" /> <small>Optional, up to 200 characters</small><br />
+<div class="pad"></div>
+<input type="submit" value="Submit" />
+
+<div class="pad3"></div>
+<small class="q0">Note: Your video will need to be approved before appearing on the site.</small>
+
+</form>
+
+</div>
+
+<div id="tab-submit-your-data" style="display: none">
+
+  <p>The <b>Wowhead Client</b> is a little application we use to keep our database up to date, and to provide you with some nifty extra functionality on the website! &nbsp;</p>
+  <div class="pad2"></div>
+  <p>It serves 2 main purposes: &nbsp;</p>
+
+  <ol>
+  <li><div>It maintains a WoW addon called the <b>Wowhead Looter</b>, which collects data as you play the game! &nbsp;</div></li>
+  <li><div>It uploads the <b>collected data</b> to Wowhead in order to keep the database up-to-date! &nbsp;</div></li>
+  </ol>
+
+  <p>You can also use it to keep track of your completed quests, recipes, mounts, companion pets, and titles!&nbsp;</p>
+  <div class="pad2"></div>
+  <p>So, what are you waiting for? <a href="/client">Download the client</a> and get started.&nbsp;</p>
+
+</div>
+
+</div>
+</div>
+
+<script type="text/javascript">//<![CDATA[
+var tabsContribute = new Tabs({parent: $WH.ge('lkgljhkv456')});tabsContribute.add(LANG.tab_addyourcomment, {id: 'add-your-comment'});tabsContribute.add(LANG.tab_submitascreenshot, {id: 'submit-a-screenshot'});
+if(g_user && g_user.roles & (U_GROUP_ADMIN | U_GROUP_BUREAU | U_GROUP_VIDEO))
+	tabsContribute.add(LANG.tab_suggestavideo, {id: 'suggest-a-video'});
+tabsContribute.add(LANG.tab_submityourdata, {id: 'submit-your-data'});
+tabsContribute.flush();
+//]]></script>
+
+
+<div class="clear"></div>
+</div>
+</div>
+
+	<div class="footer-bg">
+	<div id="ad-footer">
+		<script>window["a" + MonkeyBroker.campaignVals.r]({sz:22,w:728,h:90})</script>
+	</div>
+</div>
+	<div class="dashboard-bg">
+	<div id="ad-dashboard">
+		<script>window["a" + MonkeyBroker.campaignVals.r]({sz:25,rm:true});</script>
+	</div>
+</div>
+
+<div id="zam-footer">
+	<div class="footer-left">
+		<a href="http://www.zam.com" class="zam">
+			<img src="http://wowimg.zamimg.com/images/logos/zamlogo.png" border="0" alt="Zam" />
+		</a>
+		<div class="footer-copy">&copy; 2012 ZAM Network LLC</div>
+	</div>
+	<div class="footer-right">
+		<div>
+			<h3>ZAM Network</h3>
+			<ul>
+				<li class="first"><a href="http://www.zam.com/" target="_blank">ZAM.com</a></li>
+				<li><a href="http://www.wowhead.com/" target="_blank">Wowhead</a></li>
+				<li><a href="http://www.lolking.net/" target="_blank" title="League of Legends Statistics and Database">LolKing</a></li>
+				<li><a href="http://www.dayzdb.com/" target="_blank" title="DayZ Map and Database">DayZDB</a></li>
+				<li><a href="http://www.guildhead.com/" target="_blank" title="Guild Wars 2 Database">Guildhead</a></li>
+				<li><a href="http://www.torhead.com/" target="_blank">Torhead</a></li>
+				<li><a href="http://www.rifthead.com/" target="_blank" title="Rifthead">Rifthead</a></li>
+				<li><a href="http://www.d3db.com/" target="_blank" title="Diablo 3 Database">D3DB</a></li>
+				<li><a href="http://thottbot.com/" target="_blank">Thottbot</a></li>
+				<li><a href="http://www.mmoui.com/" target="_blank">MMOUI</a></li>
+				<li><a href="http://www.tankspot.com/" target="_blank">TankSpot</a></li>
+				<li><a href="http://www.sc2ranks.com/" target="_blank">Starcraft 2 Rankings</a></li>
+				<li><a href="http://www.vindictusdb.com/" target="_blank">VindictusDB</a></li>
+				<li><a href="http://www.torchlightarmory.com/" target="_blank">Torchlight Armory</a></li>
+				<li><a href="http://www.dnarmory.com" target="_blank">Dragon Nest Armory</a></li>
+			</ul>
+		</div>
+		<div>
+			<h3>Game Sites</h3>
+			<ul>
+				<li class="first"><a href="http://www.wowhead.com/" target="_blank">World of Warcraft</a></li>
+				<li><a href="http://www.lolking.net/" target="_blank">League of Legends</a></li>
+				<li><a href="http://www.dayzdb.com/" target="_blank">DayZ</a></li>
+				<li><a href="http://www.guildhead.com/" target="_blank">Guild Wars 2</a></li>
+				<li><a href="http://www.torhead.com/" target="_blank">Star Wars: The Old Republic</a></li>
+				<li><a href="http://rift.zam.com/" target="_blank">Rift</a></li>
+				<li><a href="http://ffxiv.zam.com/" target="_blank">Final Fantasy XIV</a></li>
+				<li><a href="http://ffxi.allakhazam.com/" target="_blank">Final Fantasy XI</a></li>
+				<li><a href="http://everquest.allakhazam.com/" target="_blank">EverQuest</a></li>
+				<li><a href="http://eq2.zam.com/" target="_blank">EverQuest 2</a></li>
+				<li><a href="http://www.torchlightarmory.com/" target="_blank">Torchlight</a></li>
+				<li><a href="http://www.sc2ranks.com/" target="_blank">Starcraft 2</a></li>
+				<li><a href="http://www.d3db.com/" target="_blank">Diablo 3</a></li>
+			</ul>
+		</div>
+		<div>
+			<h3>Community</h3>
+			<ul>
+				<li class="first"><a href="http://www.zam.com/forum.html" target="_blank">ZAM Forums</a></li>
+				<li><a href="http://www.wowhead.com/forums" target="_blank">Wowhead Forums</a></li>
+				<li><a href="http://www.wildstarsource.com/index">WildStar Source Forums</a>
+				</li><li><a href="http://www.zam.com/news.html" target="_blank">Zam News</a></li>
+				<li><a href="http://www.wowheadnews.com/" target="_blank">WowheadNews.com</a></li>
+				<li><a href="http://www.wildstarsource.com/">WildStar Source News</a></li>
+				<li><a href="http://www.facebook.com/Wowhead" target="_blank">Facebook</a></li>
+				<li><a href="http://twitter.com/wowhead" target="_blank">Twitter</a></li>
+				<li><a href="http://www.youtube.com/zamofficial" target="_blank">YouTube</a></li>
+			</ul>
+		</div>
+		<div>
+			<h3>AddOn Sites</h3>
+			<ul>
+				<li class="first"><a href="http://www.eqinterface.com/" target="_blank">EQInterface</a></li>
+				<li><a href="http://www.eq2interface.com/" target="_blank">EQ2Interface</a></li>
+				<li><a href="http://www.lotrointerface.com">LoTROInterface</a></li>
+				<li><a href="http://www.riftui.com" target="_blank">Riftui</a></li>
+				<li><a href="http://www.vginterface.com" target="_blank">VGInterface</a></li>
+				<li><a href="http://www.wowinterface.com" target="_blank">WoWInterface</a></li>
+			</ul>
+		</div>
+		<h3>ZAM General</h3>
+					<div class="home-footer">
+		<ul>
+							<li><a href="/aboutus">About Wowhead</a></li>
+							<li><a href="http://www.zam.com/wiki/Frequently_Asked_Questions_(Support)">FAQ</a></li>
+							<li><a href="http://www.zam.com/press.html">Press</a></li>
+							<li><a href="/advertise">Advertise</a></li>
+							<li><a href="/privacy">Privacy Policy</a></li>
+							<li><a href="/tos">Terms of Service</a></li>
+					</ul>
+		<div class="footer-copy">
+			&copy; 2012 Wowhead / <a href="http://www.zam.com" target="_blank" class="footer-copy-zam"></a>
+		</div>
+	</div>
+			</div>
+</div>
+<div class="clear"></div>
+</div>
+
+</div>
+</div>
+</div>
+<noscript>
+	<div id="noscript-bg"></div>
+	<div id="noscript-text">
+		<b>This site makes extensive use of JavaScript.</b><br />
+		Please <a href="https://www.google.com/support/adsense/bin/answer.py?answer=12654" target="_blank">enable JavaScript</a> in your browser.
+	</div>
+</noscript>
+
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-574613-1'],
+          ['_setDomainName', '.wowhead.com'],
+          ['_trackPageview']);
+_gaq.push(['b._setAccount', 'UA-1459431-57'],
+          ['b._setDomainName', '.wowhead.com'],
+          ['b._setAllowLinker', true],
+          ['b._trackPageview']);
+</script>
+<script src="http://www.google-analytics.com/ga.js"></script>
+<script src="http://edge.quantserve.com/quant.js"></script><script>_qacct = "p-80xBzMhbKolFI";quantserve();</script>
+
+<script>
+setTimeout(function(){var url = "http" + (/https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&c2=6036197&c3=&c4=&c5=&c6=&c7=" + escape(document.location.href) + "&c8=" + escape(document.title) + "&c9=" + escape(document.referrer) + "&c10=" + escape(screen.width+'x'+screen.height) + "&c15=" + "&rn=" + (new Date()).getTime();var i = new Image(); i.src = url; }, 1);
+</script>
+<noscript><img src="https://beacon.scorecardresearch.com/scripts/beacon.dll?c1=2&amp;c2=6036197&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c15=&amp;x=NOJAVASCRIPT" alt="" /></noscript>
+	
+
+</body>
+</html>

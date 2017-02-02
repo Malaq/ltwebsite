@@ -1,0 +1,4 @@
+AuthName "secure"
+AuthType Basic
+require valid-user
+AuthUserFile "/home/legion/.htpasswds/public_html/hermit/secure/passwd"

@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>LegionTracker</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<script type="text/javascript" src="webtoolkit.scrollabletable.js"></script>
+		<script type="text/javascript" src="webtoolkit.sortabletable.js"></script>
+		<script type="text/javascript">
+		<!--
+		function highlightRow(obj){
+			var tr=obj;
+			while (tr.tagName.toUpperCase()!='TR'&&tr.parentNode){
+			tr=tr.parentNode;
+			}
+			if (!tr.col){
+				tr.col=tr.bgColor;
+			}
+			if (obj.checked){
+				tr.className='highlight';
+			}
+			else {
+				tr.className='normal'; 
+			}
+		}
+		-->
+		</script>
+		<script language="javascript">
+		<!--
+		function checkAll() {
+		     var boxes = document.getElementById('myform').getElementsByTagName('input');
+		     for (var i = 0; i < boxes.length; i++) {
+		          if (boxes[i].type == 'checkbox' && boxes[i].id!="checkall"){
+		                boxes[i].checked = true;
+				//document.getElementById('check_'+ boxes[i].value).style.background = '#FFFFCC';
+				document.getElementById('check_'+ boxes[i].value).className='highlight';
+		          }
+		     }
+	     	}
+
+		function clearAll() {
+		     var boxes = document.getElementById('myform').getElementsByTagName('input');
+		     for (var i = 0; i < boxes.length; i++) {
+		          if (boxes[i].type == 'checkbox' && boxes[i].id!="checkall"){
+		                boxes[i].checked = false;
+		                //document.getElementById('check_'+ boxes[i].value).style.background = '';
+				document.getElementById('check_'+ boxes[i].value).className='normal';
+		          }
+		     }
+		}
+
+		function hideUnchecked() {
+		     var boxes = document.getElementById('myform').getElementsByTagName('input');
+		     for (var i = 0; i < boxes.length; i++) {
+		          if (boxes[i].type == 'checkbox' && boxes[i].id!="checkall" && !boxes[i].checked){
+				//if(!boxes[i].checked) {
+				document.getElementById('check_'+ boxes[i].value).style.display = 'none';
+				//}
+		          }
+		     }
+		}
+
+		function showAll() {
+		     clearAll();
+		     var boxes = document.getElementById('myform').getElementsByTagName('input');
+		     for (var i = 0; i < boxes.length; i++) {
+		          if (boxes[i].type == 'checkbox' && boxes[i].id!="checkall"){
+				document.getElementById('check_'+ boxes[i].value).style.display = '';
+		          }
+		     }
+		}
+
+		function toggle(it) {
+		     var box = document.getElementById(it);
+		     if(box.checked){
+     			     box.checked = false;
+			     document.getElementById('check_'+ it).className='normal';
+		     } else {
+			     box.checked = true;
+			     document.getElementById('check_'+ it).className='highlight';
+		     }
+
+		}
+
+		function mouseHighlight(it) {
+		     var box = document.getElementById(it);
+		     if(!box.checked){
+			     document.getElementById('check_'+ it).className='normal';
+		     } else {
+			     document.getElementById('check_'+ it).className='highlight';
+		     }
+
+		}
+
+		// End -->
+		</script>
+		
+		<link rel="stylesheet" type="text/css" href="style.css" />		
+	</head>
+	<body>
+		<div id='topbar'>
+		<!--#include virtual="cgi-bin/topbar.cgi"-->
+		</div>
+		<div id='navbar'>
+		<!--#include virtual="cgi-bin/navibar.cgi"-->
+		</div>
+		<div id='main_frame'>
+		<!--#include virtual="cgi-bin/pugmain.cgi"-->
+
+		Created by: <a href="mailto:legiontracker@googlegroups.com?subject=LegionTracker">Malaaq & Happyduude - Trismegistus (Medivh-US)</a>
+		</div>
+	</body>
+</html>

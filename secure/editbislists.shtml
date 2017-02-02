@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>Trismegistus Attendance and Loot</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<script type="text/javascript" src="../webtoolkit.scrollabletable.js"></script>
+		<script type="text/javascript" src="../webtoolkit.sortabletable.js"></script>
+		<script type="text/javascript" src="../sorttable.js"></script>
+		<script type="text/javascript" src="../tabber.js"></script>
+		<script type="text/javascript">
+		<!--
+		 function isEmpty(str) {
+		  // Check whether string is empty.
+		  for (var intLoop = 0; intLoop < str.length; intLoop++)
+		   if (" " != str.charAt(intLoop))
+		    return false;
+		  return true;
+		 }
+
+		 function checkRequired(f) {
+		  var strError = "";
+		  for (var intLoop = 0; intLoop < f.elements.length; intLoop++)
+		  if (null!=f.elements[intLoop].getAttribute("required")) 
+		   if (isEmpty(f.elements[intLoop].value))
+		    strError += "  " + f.elements[intLoop].name + "\n";
+		   if ("" != strError) {
+		    alert("Required data is missing:\n" + strError);
+		    return false;
+		   } else
+		  return true       
+		 }
+		-->
+		</script>
+		<link rel="stylesheet" type="text/css" href="style.css" />		
+	</head>
+
+	<body bgcolor="C0C0C0">
+		<div id='topbar'>
+		<!--#include virtual="cgi-bin/topbar.cgi"-->
+		</div>
+		<div id='navbar'>
+		<!--#include virtual="cgi-bin/navibar.cgi"-->
+		</div>
+		<div id='main_frame'>
+			<!--#include virtual="cgi-bin/editBisLists.cgi?${QUERY_STRING}"-->
+		</div>
+	</body>
+</html>

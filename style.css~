@@ -1,0 +1,176 @@
+/* Some default table properties */
+table {
+	text-align: left;
+	font-size: 11px;
+	font-family: verdana;
+	border-collapse: collapse;
+}
+
+table thead  {
+	cursor: pointer;
+}
+
+table thead tr,
+table thead tr th{
+	background: #171717;
+	color: #C5BCAC;
+}
+
+table tbody tr {
+	background: #0A0A0A;
+}
+
+td {
+	border-left: none;
+	border-right: none;
+	border-top: 1px solid #35354F;
+	border-bottom: none;
+	padding-right: 15px;
+	white-space: nowrap;
+}
+
+table tfoot tr td{
+	border-top: 3px solid #35354F;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+
+/* Default style for links */
+a {
+	text-decoration:none;
+	color: #557FAA;
+}
+
+img {
+	border-style: none;
+}
+
+/*******************************
+ *         Main 'frame'        *
+ *******************************/
+#main_frame {
+	/*position: relative;*/
+	float: left;
+	/*display: inline;
+	left: 180px;*/
+	top: 55px;
+	z-index: 9999;
+}
+
+legend {
+	color: #EFFFEF;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+/* Highlighting for the sortable table */
+/*.highlight { background-color: #222245 }*/
+.highlight { background-color: #333366 }
+.normal {
+	background-color:#0A0A0A;
+	cursor:pointer;
+}
+
+/* Attendance */
+.high_attendance { color:#00FF00; }
+.medium_attendance { color:yellow; }
+.low_attendance { color:red; }
+
+/* Loot */
+.loot { color:violet; }
+.no_loot { color:red; }
+
+/* Other columns */
+/*.member_name { color: #557FAA; }*/
+.member_name { color: #3399CC; }
+.rank { color: #EFFFEF; }
+
+/* Alert */
+.alert { background-color: #990000; }
+.alert a { 
+	color: silver;
+	text-decoration: line-through;
+}
+
+/*******************************
+ *        Navigation bar       *
+ *******************************/
+#navbar {
+	/*position: absolute;*/
+	float: left;
+	left: 10;
+	top: 55px;
+	z-index: 9999;
+	width: 180px;
+}
+
+/* Links */
+#navbar a { color: #CC3333; }
+
+/*******************************
+ *        Title bar            *
+ *******************************/
+#topbar {
+	/*position: absolute;*/
+	left: 10px;
+	top: 0;
+	z-index: 9999;
+}
+
+/* Title */
+#topbar a {
+	font-family: Arial;
+	font-weight: bold;
+	color: #545494;
+	font-size: 24px;
+}
+
+#topbar img {
+	margin-left: 180px;
+}
+
+/*******************************
+ *        Raid Details         *
+ *******************************/
+#rdraidsummary {
+	float: left;
+	left: 10px;
+	top: 0;
+	z-index: 9999;
+}
+
+#rdepicsdropped {
+	float: left;
+	left: 240px;
+	top: 0;
+	z-index: 9999;
+}
+
+#rddetails {
+	/*position: absolute;*/
+	clear: left;
+	/*float: left;*/
+	left: 10px;
+	top: 120px;
+	z-index: 9999;
+}
+/*display:inline
+/*
+#rdlootdetails {
+	position: absolute;
+	left: 10px;
+	top: 200px;
+	z-index: 9999;
+}
+
+#rdattendancedetails {
+	position: absolute;
+	left: 10px;
+	top: 400px;
+	z-index: 9999;
+}
+*/

@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>Trismegistus Attendance and Loot</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<script type="text/javascript" src="webtoolkit.scrollabletable.js"></script>
+		<script type="text/javascript" src="webtoolkit.sortabletable.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css" />		
+	</head>
+
+	<body bgcolor="C0C0C0">
+		<div id='topbar'>
+		<!--#include virtual="cgi-bin/topbar.cgi"-->
+		</div>
+		<div id='navbar'>
+		<!--#include virtual="cgi-bin/navibar.cgi"-->
+		</div>
+		<div id='main_frame'>
+		<!--#include virtual="cgi-bin/allitems.cgi"-->
+		</div>
+	</body>
+</html>

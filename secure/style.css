@@ -1,0 +1,276 @@
+/* Some default table properties */
+table {
+	text-align: left;
+	font-size: 11px;
+	font-family: verdana;
+	border-collapse: collapse;
+}
+
+table thead  {
+	cursor: pointer;
+}
+
+table thead tr,
+table thead tr th{
+	background: #171717;
+	color: #C5BCAC;
+}
+
+table tbody tr {
+	background: #0A0A0A;
+}
+
+td {
+	border-left: none;
+	border-right: none;
+	border-top: 1px solid #35354F;
+	border-bottom: none;
+	padding-right: 15px;
+	white-space: nowrap;
+}
+
+table tfoot tr td{
+	border-top: 3px solid #35354F;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+
+/* Default style for links */
+a {
+	text-decoration:none;
+	color: #557FAA;
+}
+
+img {
+	border-style: none;
+}
+
+/*******************************
+ *         Main 'frame'        *
+ *******************************/
+#main_frame {
+	/*position: relative;*/
+	float: left;
+	/*display: inline;
+	left: 180px;*/
+	top: 55px;
+	z-index: 9999;
+}
+
+legend {
+	color: #EFFFEF;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+/* Highlighting for the sortable table */
+/*.highlight { background-color: #222245 }*/
+.highlight { background-color: #333366 }
+.normal {
+	background-color:#0A0A0A;
+	cursor:pointer;
+}
+
+/* Attendance */
+.high_attendance { color:#00FF00; }
+.medium_attendance { color:yellow; }
+.low_attendance { color:red; }
+.sitting_neutral { color:#FF7D0A; }
+
+/* Loot */
+.loot { color:violet;
+	text-align: center
+}
+.no_loot { color:red; 
+	   text-align: center
+}
+
+/* Other columns */
+/*.member_name { color: #557FAA; }*/
+.member_name { color: #3399CC; }
+.rank { color: #EFFFEF; }
+
+/* Alert */
+.alert { background-color: #990000; }
+.alert a { 
+	color: silver;
+	text-decoration: line-through;
+}
+
+/*******************************
+ *        Navigation bar       *
+ *******************************/
+#navbar {
+	/*position: absolute;*/
+	float: left;
+	left: 10;
+	top: 55px;
+	z-index: 9999;
+	width: 180px;
+}
+
+/* Links */
+#navbar a { color: #CC3333; }
+
+/*******************************
+ *        Title bar            *
+ *******************************/
+#topbar {
+	/*position: absolute;*/
+	left: 10px;
+	top: 0;
+	z-index: 9999;
+	background-color: #330000;
+}
+
+/* Title */
+#topbar a {
+	font-family: Arial;
+	font-weight: bold;
+	color: #545494;
+	font-size: 24px;
+}
+
+#topbar img {
+	margin-left: 180px;
+}
+
+/*******************************
+ *        Raid Details         *
+ *******************************/
+#rdraidsummary {
+	float: left;
+	left: 10px;
+	top: 0;
+	z-index: 9999;
+}
+
+#rdepicsdropped {
+	float: left;
+	left: 240px;
+	top: 0;
+	z-index: 9999;
+}
+
+#rddetails {
+	/*position: absolute;*/
+	clear: left;
+	/*float: left;*/
+	left: 10px;
+	top: 120px;
+	z-index: 9999;
+}
+
+/* $Id: example.css,v 1.5 2006/03/27 02:44:36 pat Exp $ */
+
+/*--------------------------------------------------
+  REQUIRED to hide the non-active tab content.
+  But do not hide them in the print stylesheet!
+  --------------------------------------------------*/
+.tabberlive .tabbertabhide {
+ display:none;
+}
+
+/*--------------------------------------------------
+  .tabber = before the tabber interface is set up
+  .tabberlive = after the tabber interface is set up
+  --------------------------------------------------*/
+.tabber {
+}
+.tabberlive {
+ margin-top:1em;
+}
+
+/*--------------------------------------------------
+  ul.tabbernav = the tab navigation list
+  li.tabberactive = the active tab
+  --------------------------------------------------*/
+ul.tabbernav
+{
+ margin:0;
+ padding: 3px 0;
+ border-bottom: 1px solid #778;
+ font: bold 12px Verdana, sans-serif;
+}
+
+ul.tabbernav li
+{
+ list-style: none;
+ margin: 0;
+ display: inline;
+}
+
+ul.tabbernav li a
+{
+ padding: 3px 0.5em;
+ margin-left: 3px;
+ border: 1px solid #778;
+ border-bottom: none;
+ background: #DDE;
+ text-decoration: none;
+}
+
+ul.tabbernav li a:link { color: #448; }
+ul.tabbernav li a:visited { color: #667; }
+
+ul.tabbernav li a:hover
+{
+ color: #000;
+ background: #AAE;
+ border-color: #227;
+}
+
+ul.tabbernav li.tabberactive a
+{
+ background-color: #fff;
+ border-bottom: 1px solid #fff;
+}
+
+ul.tabbernav li.tabberactive a:hover
+{
+ color: #000;
+ background: white;
+ border-bottom: 1px solid white;
+}
+
+/*--------------------------------------------------
+  .tabbertab = the tab content
+  Add style only after the tabber interface is set up (.tabberlive)
+  --------------------------------------------------*/
+.tabberlive .tabbertab {
+ padding:5px;
+ border:1px solid #aaa;
+ border-top:0;
+
+ /* If you don't want the tab size changing whenever a tab is changed
+    you can set a fixed height */
+
+ /* height:200px; */
+
+ /* If you set a fix height set overflow to auto and you will get a
+    scrollbar when necessary */
+
+ /* overflow:auto; */
+}
+
+/* If desired, hide the heading since a heading is provided by the tab */
+.tabberlive .tabbertab h2 {
+ display:none;
+}
+.tabberlive .tabbertab h3 {
+ display:none;
+}
+
+/* Example of using an ID to set different styles for the tabs on the page */
+.tabberlive#tab1 {
+}
+.tabberlive#tab2 {
+}
+.tabberlive#tab2 .tabbertab {
+ height:200px;
+ overflow:auto;
+}

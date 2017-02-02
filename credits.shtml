@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>LegionTracker</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		<link rel="stylesheet" type="text/css" href="style.css" />		
+	</head>
+
+	<body>
+		<div id='topbar'>
+		<!--#include virtual="cgi-bin/topbar.cgi"-->
+		</div>
+		<div id='navbar'>
+		<!--#include virtual="cgi-bin/navibar.cgi"-->
+		</div>
+		<div id='main_frame'>
+		<P>
+		<B>Original Developers:</B><BR>
+		Malaaq <Trismegistus> Medivh-US<BR>
+		Happyduude <Trismegistus> Medivh-US<BR>
+		</P>
+		<P>
+		<B>Graphics:</B><BR>
+		Threelibra <Trismegistus> Medivh-US<BR>
+		</P>
+		<P>
+		<B>Pre-Release Users/Testing:</B><BR>
+		Yuzuki <Trismegistus> Medivh-US<BR>
+		Nobunaga <Trismegistus> Medivh-US<BR>
+		Happyduude <Trismegistus> Medivh-US<BR>
+		Malaaq <Trismegistus> Medivh-US<BR>
+		Littletoe <Trismegistus> Medivh-US<BR>
+		Sindaga <Trismegistus> Medivh-US<BR>
+		Vaulk <Trismegistus> Medivh-US<BR>
+		Soulzar <Trismegistus> Medivh-US<BR>
+		</P>
+		<P>
+		<B>First External Guild Beta Test:</B><BR>
+		Guinea <Providence> Sen'Jin-US<BR>
+		Epicthread <Providence> Sen'Jin-US<BR>
+		Selaniene <Providence> Sen'Jin-US<BR>
+		Aristei <Providence> Sen'Jin-US<BR>
+		Bragas <Providence> Sen'Jin-US<BR>
+		</P>
+		<P>
+		<B>Special Thanks:</B><BR>
+		Thanks to the members and officers of Trismegistus<BR>
+		for all of your suggestions and interest in this project.<BR>
+		</P>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Vicious Gladiator's Leather Gloves - Item - World of Warcraft</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="This epic leather armor of item level 365 goes in the &quot;Hands&quot; slot. It is looted and obtained through PvP." />
+<meta property="og:site_name" content="Wowhead" />
+<meta property="fb:admins" content="25110089,574504613,699274286,571053676" />
+<meta property="og:title" content="Vicious Gladiator's Leather Gloves" />
+<meta property="og:image" content="http://static.wowhead.com/images/logos/wowicon.png" />
+<meta property="og:url" content="http://www.wowhead.com/item=60459/vicious-gladiators-leather-gloves" />
+<meta property="og:description" content="This epic leather armor of item level 365 goes in the &quot;Hands&quot; slot. It is looted and obtained through PvP." />
+<meta property="og:type" content="article" />
+
+<link rel="canonical" href="http://www.wowhead.com/item=60459/vicious-gladiators-leather-gloves" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.wowhead.com/download/searchplugins/wowhead.xml" title="Wowhead" />
+<link rel="apple-touch-icon-precomposed" href="http://static.wowhead.com/apple-touch-icon.png" />
+
+<link rel="stylesheet" type="text/css" href="http://static.wowhead.com/css/locale_enus.css?1185" />
+<link rel="stylesheet" type="text/css" href="http://static.wowhead.com/css/basic.css?1185" />
+<link rel="stylesheet" type="text/css" href="http://static.wowhead.com/css/global.css?1185" />
+<link rel="stylesheet" type="text/css" href="http://static.wowhead.com/css/wowhead.css?1185" />
+<link rel="stylesheet" type="text/css" href="http://static.wowhead.com/css/Book.css?1185" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+<script type="text/javascript">//<![CDATA[
+$.extend(window, {g_staticUrl: 'http://static.wowhead.com', g_serverTime: new Date('2011/02/08 23:23:27')});
+//]]></script>
+
+<script type="text/javascript" src="http://static.wowhead.com/js/locale_enus.js?1185"></script>
+<script type="text/javascript" src="http://static.wowhead.com/js/basic.js?1185"></script>
+<script type="text/javascript" src="http://static.wowhead.com/widgets/power.js?1185"></script>
+<script type="text/javascript" src="http://static.wowhead.com/js/global.js?1185"></script>
+<script type="text/javascript" src="http://static.wowhead.com/js/Book.js?1185"></script>
+<script type="text/javascript" src="http://static.wowhead.com/js/filters.js?1185"></script>
+<script type="text/javascript" src="http://static.wowhead.com/js/profile.js?1185"></script>
+
+<script type="text/javascript" src="/data=weight-presets.zones&amp;1185"></script>
+<script type="text/javascript" src="/data=user&amp;1297229007"></script>
+
+</head>
+
+<body class="item">
+
+<div class="beta-ptr-links">
+<div><a href="http://old.wowhead.com/item=60459" rel="np" title="View the old version of this page">&#171; Archive</a></div>
+<div><a href="http://ptr.wowhead.com/item=60459" rel="np" title="View the PTR version of this page">&#171; PTR</a></div>
+</div>
+
+<div class="layout nosidebar" id="layout">
+<div class="layout-inner">
+
+<div class="header">
+<h1>Vicious Gladiator's Leather Gloves - Item - World of Warcraft</h1>
+
+<a href="/" class="header-logo"></a>
+<div class="header-bg"><div id="ad-header"></div></div>
+</div>
+
+<div class="wrapper" id="wrapper">
+<div class="wrapper-center" id="wrapper-center"></div>
+<div class="wrapper-right" id="wrapper-right"><a href="#" class="header-expandsite" id="header-expandsite"></a></div>
+
+<div class="toplinks linklist"><a href="https://www.wowhead.com/account=signin">Sign in</a>|<a href="#" id="toplinks-feedback" class="icon-email">Feedback</a>|<a href="#" id="toplinks-language"></a></div>
+
+<div class="toptabs" id="toptabs"></div>
+<div class="topbar" id="topbar">
+<div class="topbar-search"><form action="/search"><input name="q" value="" /></form></div>
+<div class="topbar-buttons"></div>
+</div>
+<div class="main" id="main">
+<div class="main-precontents" id="main-precontents"></div>
+<div class="main-contents" id="main-contents">
+
+<script type="text/javascript">//<![CDATA[
+PageTemplate.set({pageName: 'item', activeTab: 0});
+PageTemplate.init();
+//]]></script>
+
+<div id="announcement-40"></div>
+<script type="text/javascript">//<![CDATA[
+new Announcement({ parent: 'announcement-40', id: 40, text: '[h3]Patch 4.0.6 is now available![/h3]\n[b][img src=http://static.wowhead.com/favicon.ico border=0] [url=/patchnotes=4.0.6]Official Patch Notes[/url] | [url=/blog=182117/patch-4-0-6-now-available-on-live-servers]4.0.6 Mini Guide[/url] | [url=http://www.wowhead.com/talent]Talent Calculator[/url][/b]', name: 'New PTR Patch!', style: 'padding-left: 51px; background-image: url(/images/announcements/%tb%info-small.gif); background-position: 10px center', status: 1, mode: 1 });
+//]]></script>
+
+<script type="text/javascript">//<![CDATA[
+var lv_comments = [];
+var lv_screenshots = [];
+var lv_videos = [];
+var g_pageInfo = {type: 3, typeId: 60459, name: 'Vicious Gladiator\'s Leather Gloves'};
+PageTemplate.set({breadcrumb: [0,0,4,2,10]});
+//]]></script>
+
+<script type="text/javascript">//<![CDATA[
+var _ = g_items;
+_[60459]={name_enus:'Vicious Gladiator\'s Leather Gloves',quality:4,icon:'inv_glove_leather_pvprogue_c_01'};_[65548]={name_enus:'Vicious Gladiator\'s Leather Gloves',quality:4,icon:'inv_glove_leather_pvprogue_c_01'};_[52722]={name_enus:'Maelstrom Crystal',quality:4,icon:'inv_misc_crystalepic'};
+_[60459].tooltip_enus = '<table><tr><td><b class="q4">Vicious Gladiator\'s Leather Gloves</b><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Hands</td><th>Leather</th></tr></table><span>1072 Armor</span><br />+248 Agility<br />+402 Stamina<!--e--><br /><a href="/items=3&amp;filter=cr=81;crs=4;crv=0" class="socket-blue q0">Blue Socket</a><!--ps--><br /><!--sb--><span class="q0">Socket Bonus: +10 Agility</span><br />Durability 55 / 55<br />Classes: <a href="/class=4" class="c4">Rogue</a><br />Requires Level 85<br />Item Level 365</td></tr></table><table><tr><td><span class="q2">Equip: Increases your hit rating by <!--rtg16-->159&nbsp;<small>(<!--rtg%16-->1.32%&nbsp;@&nbsp;L<!--lvl-->85)</small>.</span><br /><span class="q2">Equip: Increases your resilience rating by <!--rtg35-->179&nbsp;<small>(<!--rtg%35-->0.49%&nbsp;@&nbsp;L<!--lvl-->85)</small>.</span><br /><span class="q2">Equip: <a href="/spell=61249" class="q2">Reduces the Energy cost of your Kick by 10.</a></span><br /><br /><span class="q"><a href="/itemset=-322" class="q">Vicious Gladiator\'s Vestments</a> (0/5)</span><div class="q0 indent"><span><!--si60458:64773:64963--><a href="/item=60458">Vicious Gladiator\'s Leather Tunic</a></span><br /><span><!--si60459:64769:64967--><a href="/item=60459">Vicious Gladiator\'s Leather Gloves</a></span><br /><span><!--si60460:64770:64966--><a href="/item=60460">Vicious Gladiator\'s Leather Helm</a></span><br /><span><!--si60461:64771:64965--><a href="/item=60461">Vicious Gladiator\'s Leather Legguards</a></span><br /><span><!--si60462:64772:64964--><a href="/item=60462">Vicious Gladiator\'s Leather Spaulders</a></span></div><br /><span class="q0"><span>(2) Set: <a href="/spell=92254">+400 resilience rating.</a></span><br /><span>(2) Set: <a href="/spell=92258">Increases Agility by 70.</a></span><br /><span>(4) Set: <a href="/spell=21975">Increases your maximum Energy by 10.</a></span><br /><span>(4) Set: <a href="/spell=92257">Increases Agility by 90.</a></span></span><br />Sell Price: <span class="moneygold">8</span> <span class="moneysilver">65</span> <span class="moneycopper">14</span></td></tr></table><!--?60459:1:85:85-->';
+var _ = g_gatheredcurrencies;
+_[390]={name_enus:'Conquest Points',icon:['pvpcurrency-conquest-alliance','pvpcurrency-conquest-horde']};
+//]]></script>
+<table class="infobox">
+<tr><th id="infobox-quick-facts">Quick Facts</th></tr>
+<tr><td><div class="infobox-spacer"></div><div id="sdhafcuvh0"></div></td></tr>
+<tr><th id="infobox-screenshots">Screenshots</th></tr>
+<tr><td><div class="infobox-spacer"></div><div id="infobox-sticky-ss"></div></td></tr>
+<tr><th id="infobox-videos">Videos</th></tr>
+<tr><td><div class="infobox-spacer"></div><div id="infobox-sticky-vi"></div></td></tr>
+</table>
+<script type="text/javascript">ss_appendSticky()</script>
+<script type="text/javascript">vi_appendSticky()</script>
+<script type="text/javascript">//<![CDATA[
+Markup.printHtml("[ul][li]Disenchantable&nbsp;([tooltip=tooltip_reqenchanting]475[/tooltip])[/li][li][tooltip=tooltip_refundable]Refundable[/tooltip][/li][li]Repair cost: [money=91437][/li][li]Added in patch 4.0.3[/li][/ul]", "sdhafcuvh0", { allow: Markup.CLASS_STAFF, dbpage: true });
+//]]></script>
+
+<div class="text">
+
+<a href="javascript:;" class="button-red" onclick="this.blur(); g_getIngameLink('ffa335ee', 'item:60459:0:0:0:0:0:0:0:0', 'Vicious Gladiator\'s Leather Gloves')"><em><b><i>Link</i></b><span>Link</span></em></a>
+<a href="javascript:;" id="dsgndslgn464d" class="button-red" onclick="this.blur(); ModelViewer.show({ type: 3, typeId: 60459, displayId: 84700, slot: 10 })"><em><b><i>View in 3D</i></b><span>View in 3D</span></em></a>
+<a href="javascript:;" class="button-red" onclick="this.blur(); su_addToSaved('60459', 1)"><em><b><i>Compare</i></b><span>Compare</span></em></a><a href="javascript:;" class="button-red" onclick="this.blur(); pr_showClassPresetMenu(this,60459,4,10,event)"><em><b><i>Find upgrades...</i></b><span>Find upgrades...</span></em></a><h1>Vicious Gladiator's Leather Gloves</h1>
+
+<div class="block-bg"><div id="ad-content"></div></div>
+
+<div id="ic60459" style="float: left"></div>
+<div id="tt60459" class="wowhead-tooltip" style="float: left; padding-top: 1px"></div>
+<div style="clear: left"></div>
+<div id="sl60459" style="margin-left: 70px; margin-top: 4px; display: none;"></div>
+<script type="text/javascript">//<![CDATA[
+$WH.ge('ic60459').appendChild(Icon.create('inv_glove_leather_pvprogue_c_01', 2, null, 0, 1));
+_ = $WH.ge('tt60459'); __ = $WH.ge('sl60459');
+_.innerHTML = '<table><tr><td>' + ($WH.g_enhanceTooltip.bind(_))(60459, true, true, __) + '</td><th style="background-position: top right"></th></tr><tr><th style="background-position: bottom left"></th><th style="background-position: bottom right"></th></tr></table>';
+$WH.Tooltip.fixSafe(_, 1, 1, __);
+//]]></script>
+<h2 class="clear">Related</h2>
+
+</div>
+
+<div id="jkbfksdbl4"></div>
+<div id="lkljbjkb574" class="listview">
+</div>
+<script type="text/javascript">//<![CDATA[
+var tabsRelated = new Tabs({parent: $WH.ge('jkbfksdbl4')});
+new Listview({template: 'npc', id: 'dropped-by', name: LANG.tab_droppedby, tabs: tabsRelated, parent: 'lkljbjkb574', hiddenCols: ['type'], extraCols: [Listview.extraCols.count, Listview.extraCols.percent], sort:['-percent', '-count', 'name'], computeDataFunc: Listview.funcBox.initLootTable, data: [{"boss":1,"classification":1,"id":47120,"location":[5600],"maxlevel":88,"minlevel":88,"name":"Argaloth","react":[-1,-1],"type":3,count:925,outof:13271}]});
+new Listview({template: 'npc', id: 'sold-by', name: LANG.tab_soldby, tabs: tabsRelated, parent: 'lkljbjkb574', hiddenCols: ['level', 'type'], extraCols: [Listview.extraCols.stock, Listview.extraCols.cost], data: [{"classification":0,"id":51254,"location":[1519],"maxlevel":65,"minlevel":65,"name":"Captain Dirgehammer","react":[1,undefined],"tag":"Conquest Quartermaster","type":7,stock:-1,cost:[0,[[390,1650]],[]]},{"classification":0,"id":40214,"location":[440],"maxlevel":70,"minlevel":70,"name":"Evee Copperspring","react":[1,1],"tag":"Conquest Quartermaster","type":7,stock:-1,cost:[0,[[390,1650]],[]]},{"classification":0,"id":46594,"location":[1637],"maxlevel":65,"minlevel":65,"name":"Sergeant Thunderhorn","react":[undefined,1],"tag":"Conquest Quartermaster","type":7,stock:-1,cost:[0]},{"classification":0,"id":40210,"location":[4395],"maxlevel":75,"minlevel":75,"name":"Xazi Smolderpipe","react":[1,1],"tag":"Conquest Quartermaster","type":7,stock:-1,cost:[0,[[390,1650]],[]]}]});
+new Listview({template: 'item', id: 'currency-for', name: LANG.tab_currencyfor, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: [Listview.extraCols.cost], note: $WH.sprintf(LANG.lvnote_filterresults, '/items?filter=cr=118;crs=60459;crv=0'), data: [{"armor":1072,"classs":4,"displayid":84757,"id":65548,"level":365,"name":"3Vicious Gladiator's Leather Gloves","reqclass":8,"reqlevel":85,"slot":10,"slotbak":10,"source":[5],"subclass":2,cost:[0,[],[[60459,1]]]}]});
+new Listview({template: 'item', id: 'disenchanting', name: LANG.tab_disenchanting, tabs: tabsRelated, parent: 'lkljbjkb574', extraCols: [Listview.extraCols.count, Listview.extraCols.percent], sort:['-percent', 'name'], computeDataFunc: Listview.funcBox.initLootTable, note: $WH.sprintf(LANG.lvnote_itemdisenchanting, 69), _totalCount: 69, data: [{"classs":7,"id":52722,"level":85,"name":"3Maelstrom Crystal","slot":0,"source":[2],"subclass":12,count:69,stack:[1,1]}]});
+new Listview({template: 'item', id: 'see-also', name: LANG.tab_seealso, tabs: tabsRelated, parent: 'lkljbjkb574', data: [{"armor":1072,"classs":4,"displayid":84757,"id":65548,"level":365,"name":"3Vicious Gladiator's Leather Gloves","reqclass":8,"reqlevel":85,"slot":10,"slotbak":10,"source":[5],"subclass":2}]});
+new Listview({template: 'comment', id: 'comments', name: LANG.tab_comments, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_comments});
+new Listview({template: 'screenshot', id: 'screenshots', name: LANG.tab_screenshots, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_screenshots});
+if(lv_videos.length || (g_user && g_user.roles & (U_GROUP_ADMIN | U_GROUP_BUREAU | U_GROUP_VIDEO)))
+	new Listview({template: 'video', id: 'videos', name: LANG.tab_videos, tabs: tabsRelated, parent: 'lkljbjkb574', data: lv_videos});
+tabsRelated.flush();
+//]]></script>
+
+<div class="text">
+
+<h2 class="clear">Contribute</h2>
+<div class="block-bg"><div id="ad-contribute"></div></div>
+
+</div>
+
+<div id="lkgljhkv456" style="width: 50%"></div>
+
+<div class="text" style="margin-right: 316px">
+<div class="tabbed-contents" style=" clear: none">
+<div id="tab-add-your-comment" style="display: none">
+
+Please keep the following in mind when posting a comment:
+
+<ul>
+<li><div>Unsure how to post? Check out our <a href="/help=commenting-and-you" target="_blank">handy guide</a>!</div></li>
+<li><div>You might want to proof-read your comments before posting them.</div></li><li><div>Please post questions on our <a href="/forums">forums</a> for quicker reply.</div></li></ul><form action="/" method="post">
+
+<div class="comment-edit-body"><textarea class="comment-editbox" rows="10" cols="40" name="commentbody" disabled="disabled"></textarea></div>
+<small>You are not signed in. Please <a href="/account=signin">sign in</a> to add your comment.</small>
+
+</form>
+
+</div>
+
+<div id="tab-submit-a-screenshot" style="display: none">
+
+Simply browse for your screenshot using the form below.
+
+<ul>
+<li><div>In-game screenshots are preferred over model-viewer-generated ones.</div></li>
+<li><div>The higher the quality the better!</div></li>
+<li><div>Be sure to read the <a href="/help=screenshots-tips-tricks" target="_blank">tips &amp; tricks</a> if you haven't before.</div></li>
+</ul>
+
+<form action="/" method="post">
+
+<input type="file" name="screenshotfile" disabled="disabled" /><br />
+<small>You are not signed in. Please <a href="/account=signin">sign in</a> to submit a screenshot.</small>
+
+</form>
+
+</div>
+
+<div id="tab-suggest-a-video" style="display: none">
+
+Simply type the URL of the video in the form below.
+
+<div class="pad2"></div>
+<form action="/video=add&amp;3.60459" method="post" enctype="multipart/form-data" onsubmit="return vi_validateForm(this)">
+
+URL: <input type="text" name="videourl" style="width: 35%" /> <small>Supported: YouTube only</small>
+<div class="pad2"></div>
+Title: <input type="text" name="videotitle" maxlength="200" /> <small>Optional, up to 200 characters</small><br />
+<div class="pad"></div>
+<input type="submit" value="Submit" />
+
+<div class="pad3"></div>
+<small class="q0">Note: Your video will need to be approved before appearing on the site.</small>
+
+</form>
+
+</div>
+
+<div id="tab-submit-your-data" style="display: none">
+
+  <p>The <b>Wowhead Client</b> is a little application we use to keep our database up to date, and to provide you with some nifty extra functionality on the website! &nbsp;</p>
+  <div class="pad2"></div>
+  <p>It serves 2 main purposes: &nbsp;</p>
+  
+  <ol>
+  <li><div>It maintains a WoW addon called the <b>Wowhead Looter</b>, which collects data as you play the game! &nbsp;</div></li>
+  <li><div>It uploads the <b>collected data</b> to Wowhead in order to keep the database up-to-date! &nbsp;</div></li>
+  </ol>
+  
+  <p>You can also use it to keep track of your completed quests, recipes, mounts, companion pets, and titles!&nbsp;</p>
+  <div class="pad2"></div>
+  <p>So, what are you waiting for? <a href="/client">Download the client</a> and get started.&nbsp;</p>
+
+</div>
+
+</div>
+</div>
+
+<script type="text/javascript">//<![CDATA[
+var tabsContribute = new Tabs({parent: $WH.ge('lkgljhkv456')});
+tabsContribute.add(LANG.tab_addyourcomment, {id: 'add-your-comment'});
+tabsContribute.add(LANG.tab_submitascreenshot, {id: 'submit-a-screenshot'});
+if(g_user && g_user.roles & (U_GROUP_ADMIN | U_GROUP_BUREAU | U_GROUP_VIDEO))
+	tabsContribute.add(LANG.tab_suggestavideo, {id: 'suggest-a-video'});
+tabsContribute.add(LANG.tab_submityourdata, {id: 'submit-your-data'});
+tabsContribute.flush();
+//]]></script>
+
+<div class="clear"></div>
+
+</div><!-- main-contents -->
+</div><!-- main -->
+
+<div class="footer"><div class="footer-links linklist"><a href="/aboutus">About us &amp; contact</a>|<a href="/tos">Terms of use</a>|<a href="/privacy">Privacy</a>|<a href="/advertise">Advertise</a>|<a href="#" id="footer-links-language"></a></div>
+<div class="footer-copy">&copy; 2010 Wowhead /&nbsp;<a href="http://www.zam.com" target="_blank" class="footer-copy-zam"></a></div>
+</div></div><!-- wrapper -->
+</div><!-- layout-inner -->
+</div><!-- layout -->
+
+<noscript><div id="noscript-bg"></div><div id="noscript-text"><b>This site makes extensive use of JavaScript.</b><br />Please <a href="https://www.google.com/support/adsense/bin/answer.py?answer=12654" target="_blank">enable JavaScript</a> in your browser.</div></noscript>
+
+<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-574613-1");pageTracker._setDomainName(".wowhead.com");pageTracker._trackPageview();</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct = "p-80xBzMhbKolFI";quantserve();</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-9112220576733598");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-9112220576733598", "WH_Special");</script><script type="text/javascript">GA_googleFetchAds();</script><script type="text/javascript">GA_googleFillSlot("WH_Special");</script>
+<script type="text/javascript">//<![CDATA[
+setTimeout(function(){var url = "http" + (/https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&c2=6036197&c3=&c4=&c5=&c6=&c7=" + escape(document.location.href) + "&c8=" + escape(document.title) + "&c9=" + escape(document.referrer) + "&c10=" + escape(screen.width+'x'+screen.height) + "&c15=" + "&rn=" + (new Date()).getTime();var i = new Image(); i.src = url; }, 1);
+//]]></script>
+<noscript><img src="https://beacon.scorecardresearch.com/scripts/beacon.dll?c1=2&amp;c2=6036197&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c15=&amp;x=NOJAVASCRIPT" alt="" /></noscript>
+
+</body>
+
+</html>
